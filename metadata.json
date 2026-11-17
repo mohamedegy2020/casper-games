@@ -1,0 +1,6 @@
+{
+  "name": "كاسبر جيمز - منصة الألعاب التفاعلية للبث المباشر",
+  "description": "منصة كاسبر للألعاب التفاعلية للبث المباشر على تيك توك مع قراءة ذكية للتعليقات واستقبال الهدايا واحتساب النقاط ولوحات الشرف والانتصار.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
